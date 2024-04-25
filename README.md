@@ -1,4 +1,4 @@
-# Caracterização e predição da (in)satisfação de clietes de uma operadora de telefonia móvel
+# Caracterização e predição da (in)satisfação de clientes de uma operadora de telefonia móvel
 
 Trabalho de Conclusão de Curso (TCC) - Projeto de Análise e Ciência de Dados
 
