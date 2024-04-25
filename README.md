@@ -19,7 +19,7 @@ Universidade Federal do Espírito Santo (UFES)
 
 [Acesse aqui a monografia](http://www.inf.ufes.br/~vinicius.mota/docs/2023-2-PG2-Luiza_Batista_Laquini.pdf)
 
-### Resumo
+## Resumo
 
 O projeto em questão aborda a caracterização e predição da satisfação dos clientes de uma operadora de telefonia móvel. A caracterização será realizada por meio da análise do Net Promoter Score (NPS) aplicado a diferentes características, proporcionando uma compreensão abrangente dos fatores que influenciam a satisfação do cliente.
 
@@ -30,9 +30,9 @@ A satisfação do cliente é essencial para o sucesso das operadoras de telefoni
 As etapas envolvidas são: pré-processamento de dados, análise exploratória, treinamento de algoritmos, avaliação de desempenho e, por fim, a apresentação de insights e
 recomendações para a operadora de telefonia móvel. A integração do NPS com métodos avançados de predição visa fornecer estudos que se complementam para entender, antecipar e melhorar a satisfação do cliente, contribuindo assim para o sucesso e crescimento sustentável do negócio.
 
-### Palavras-chave: 
+## Palavras-chave: 
 NPS; Telefonia; Caracterização; Predição.
 
-### Confidencialidade dos Dados
+## Confidencialidade dos Dados
 
 Por motivos de confidencialidade, não posso compartilhar os dados a mim disponibilizados pela operadora de telefonia TIM.
