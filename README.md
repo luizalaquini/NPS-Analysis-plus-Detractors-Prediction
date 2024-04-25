@@ -1,5 +1,10 @@
 # Caracterização e predição da (in)satisfação de clientes de uma operadora de telefonia móvel
 
+![GitHub repo size](https://img.shields.io/github/repo-size/luizalaquini/NPS-Analysis-plus-Detractors-Prediction)
+![GitHub language count](https://img.shields.io/github/languages/count/luizalaquini/NPS-Analysis-plus-Detractors-Prediction)
+![GitHub top language](https://img.shields.io/github/languages/top/luizalaquini/NPS-Analysis-plus-Detractors-Prediction)
+![GitHub followers](https://img.shields.io/github/followers/luizalaquini?label=Follow&style=social)
+
 Trabalho de Conclusão de Curso (TCC) - Projeto de Análise e Ciência de Dados
 
 Aluna: Luiza Batista Laquini
